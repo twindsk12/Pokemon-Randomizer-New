@@ -1,0 +1,151 @@
+Bulbasaur,grass frog,Grass,Poison
+Ivysaur,grasser frog,Grass,Poison
+Venusaur,grassiest frog,Grass,Poison
+Charmander,lizard on fire,Fire,
+Charmeleon,gecko on fire,Fire,
+Charizard,"dragon" on fire,Fire,Flying
+Squirtle,Donatello,Water,
+Wartortle,Raphael,Water,
+Blastoise,Leonardo,Water,
+Caterpie,Worm,Bug,
+Metapod,Harden,Bug,
+Butterfree,Real Men Cried,Bug,Flying
+Weedle,Sharp Worm,Bug,Poison
+Kakuna,Harden Again,Bug,Poison
+Beedrill,yOu LiKe JaZz????,Bug,Poison
+Pidgey,birb,Normal,Flying
+Pidgeotto,bigger birb,Normal,Flying
+Pidgeot,biggest birb,Normal,Flying
+Rattata,New York,Normal,
+Raticate,Overgrown New York,Normal,
+Spearow,Talons,Normal,Flying
+Fearow,Talons but Bigger,Normal,Flying
+Ekans,snake,Poison,
+Arbok,cobra,Poison,
+Pikachu,Farewell Ash Ketchum,Electric,
+Raichu,....No one cares about it,Electric,
+Sandshrew,Brown Sonic,Ground,
+Sandslash,Brown Bigger Sonic,Ground,
+Nidoran♀,uhh idk,Poison,
+Nidorina,uh idk part 2,Poison,
+Nidoqueen,uh idk part 3,Poison,Ground
+Nidoran♂,idk part 4,Poison,
+Nidorino,idk part 5,Poison,
+Nidoking,idk part 6,Poison,Ground
+Clefairy,og mascot before rat,Fairy,
+Clefable,pointy,Fairy,
+Vulpix,NARUTooooo,Fire,
+Ninetales,SasUkEEEEEEE,Fire,
+Jigglypuff,Sing,Normal,Fairy
+Wigglytuff,Sing 2,Normal,Fairy
+Zubat,Zubatman,Poison,Flying
+Golbat,Golbatman,Poison,Flying
+Oddish,literally a shrub,Grass,Poison
+Gloom,smelly shrub,Grass,Poison
+Vileplume,beeg shrub,Grass,Poison
+Paras,shrooms,Bug,Grass
+Parasect,bigger shrooms,Bug,Grass
+Venonat,.....,Bug,Poison
+Venomoth,.......,Bug,Poison
+Diglett,what is it underground,Ground,
+Dugtrio,what is it underground x3,Ground,
+Meowth,Cat,Normal,
+Persian,Bigger Cat,Normal,
+Psyduck,Confuzzled,Water,
+Golduck,weather war,Water,
+Mankey,angry monkey,Fighting,
+Primeape,Bigger angry monkey,Fighting,
+Growlithe,literally a dog on fire,Fire,
+Arcanine,a bigger dog on fire,Fire,
+Poliwag,a tadpole?,Water,
+Poliwhirl,whatever is between tadpole and frog,Water,
+Poliwrath,kungfu frog?,Water,Fighting
+Abra,no eyes,Psychic,
+Kadabra,eyes,Psychic,
+Alakazam,spoon,Psychic,
+Machop,child,Fighting,
+Machoke,buff guy,Fighting,
+Machamp,gym bro,Fighting,
+Bellsprout,planty,Grass,Poison
+Weepinbell,wierd planty,Grass,Poison
+Victreebel,uhhh what the plant,Grass,Poison
+Tentacool,jelly,Water,Poison
+Tentacruel,JELLY,Water,Poison
+Geodude,rock with arms,Rock,Ground
+Graveler,rock with arms,Rock,Ground
+Golem,DWAYNE the rock with arms,Rock,Ground
+Ponyta,MY LITLE PONY,Fire,
+Rapidash,MY LITTLE PONY ON FIRE,Fire,
+Slowpoke,SLOW,Water,Psychic
+Slowbro,SLOWER,Water,Psychic
+Magnemite,MAGNET,Electric,Steel
+Magneton,BIGGER MAGNET,Electric,Steel
+Farfetch'd,who?,Normal,Flying
+Doduo,2 heads are better than 1,Normal,Flying
+Dodrio,3 heads are not better than 1,Normal,Flying
+Seel,literally a seal,Water,
+Dewgong,kinda a seal,Water,Ice
+Grimer,gunk,Poison,
+Muk,pile of gunk,Poison,
+Shellder,shellfish,Water,
+Cloyster,something something shell,Water,Ice
+Gastly,dead,Ghost,Poison
+Haunter,deader,Ghost,Poison
+Gengar,deadest,Ghost,Poison
+Onix,rock snake,Rock,Ground
+Drowzee,sleepy,Psychic,
+Hypno,more eepy,Psychic,
+Krabby,Mr Krabs,Water,
+Kingler,MONEYYYYY,Water,
+Voltorb,pokeball?,Electric,
+Electrode,not a pokeball?,Electric,
+Exeggcute,cute egg,Grass,Psychic
+Exeggutor,no longer cute egg,Grass,Psychic
+Cubone,dead mom :/,Ground,
+Marowak,the dead mom,Ground,
+Hitmonlee,Bruce Lee,Fighting,
+Hitmonchan,Jackie Chan,Fighting,
+Lickitung,honestly forgot about it,Normal,
+Koffing,coughin,Poison,
+Weezing,weezin,Poison,
+Rhyhorn,You can ride then in X and Y for like 1 minute,Ground,Rock
+Rhydon,don't make the joke its not funny,Ground,Rock
+Chansey,nurse,Normal,
+Tangela,Rapunzel,Grass,
+Kangaskhan,Parents,Normal,
+Horsea,Seahorse,Water,
+Seadra,Seahorse after glow up,Water,
+Goldeen,the snack that smiles back,Water,
+Seaking,Evolution go crazy,Water,
+Staryu,NO this is Patrick,Water,
+Starmie,Was a good friend for a few seasons and became kinda a jerk,Water,Psychic
+Mr. Mime,Glass Wall,Psychic,Fairy
+Scyther,Mantis,Bug,Flying
+Jynx,what are those lips,Ice,Psychic
+Electabuzz,idk a plug,Electric,
+Magmar,baby flame,Fire,
+Pinsir,literally a bug,Bug,
+Tauros,a bull,Normal,
+Magikarp,koi fish,Water,
+Gyarados,king of glow ups,Water,Flying
+Lapras,icy boi,Water,Ice
+Ditto,imposters???,Normal,
+Eevee,technically also a starter,Normal,
+Vaporeon,insert unfunny copypasta(pls stop),Water,
+Jolteon,fast fox,Electric,
+Flareon,fire fox,Fire,
+Porygon,gave seizures:/,Normal,
+Omanyte,fossil boi,Rock,Water
+Omastar,fossil boi,Rock,Water
+Kabuto,LORD HELIX,Rock,Water
+Kabutops,LORD HELIX,Rock,Water
+Aerodactyl,It wont bite :D,Rock,Flying
+Snorlax,BIG MAC,Normal,
+Articuno,ice birb,Ice,Flying
+Zapdos,bird on a pole,Electric,Flying
+Moltres,deep fried birb,Fire,Flying
+Dratini,PSEUDO,Dragon,
+Dragonair,PSEUDO,Dragon,
+Dragonite,PSEUDO,Dragon,Flying
+Mewtwo,stupdily busted in gen1,Psychic,
+Mew,look under the van,Psychic,

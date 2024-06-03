@@ -1,0 +1,97 @@
+Tauros (Combat Breed),Battle Bull,Fighting
+Tauros (Blaze Breed),Flame Bull,Fighting,Fire
+Tauros (Aqua Breed),Surfing Bull,Fighting,Water
+Paldean Wooper,Toxic Digger,Poison,Ground
+Ursaluna (Bloodmoon),Lunar Bear,Ground,Normal
+Sprigatito,Sprouting Cat,Grass
+Floragato,Flower Cat,Grass
+Meowscarada,Feline Phantom,Grass,Dark
+Fuecoco,Fire Coconut,Fire
+Crocalor,Lava Croc,Fire
+Skeledirge,Bone Blaze,Fire,Ghost
+Quaxly,Quack Splash,Water
+Quaxwell,Quack Wave,Water
+Quaquaval,Quack Fighter,Water,Fighting
+Lechonk,Chunky Hog,Normal
+Oinkologne (Male),Sow Scent,Normal
+Oinkologne (Female),Sow Scent,Normal
+Tarountula,Web Crawler,Bug
+Spidops,Spy Arachnid,Bug
+Nymble,Quick Bug,Bug
+Lokix,Shadow Scuttle,Bug,Dark
+Pawmi,Paws Spark,Electric
+Pawmo,Paws Punch,Electric,Fighting
+Pawmot,Paws Fury,Electric,Fighting
+Tandemaus,Duo Mouse,Normal
+Maushold (Family of Four),Mouse Family,Normal
+Maushold (Family of Three),Mouse Family,Normal
+Fidough,Fairy Dough,Fairy
+Dachsbun,Burrow Bunny,Fairy
+Smoliv,Tiny Leaf,Grass,Normal
+Dolliv,Dainty Leaf,Grass,Normal
+Arboliva,Tree Spirit,Grass,Normal
+Squawkabilly (Green Plumage),Green Squawk,Normal,Flying
+Squawkabilly (Blue Plumage),Blue Squawk,Normal,Flying
+Squawkabilly (Yellow Plumage),Yellow Squawk,Normal,Flying
+Squawkabilly (White Plumage),White Squawk,Normal,Flying
+Nacli,Rock Salt,Rock
+Naclstack,Salt Pile,Rock
+Garganacl,Salt Boulder,Rock
+Charcadet,Charcoal Cadet,Fire
+Armarouge,Fire Armor,Fire,Psychic
+Ceruledge,Cerulean Phantom,Fire,Ghost
+Tadbulb,Electric Tadpole,Electric
+Bellibolt,Bell Bolt,Electric
+Wattrel,Zap Bird,Electric,Flying
+Kilowattrel,Mega Zap Bird,Electric,Flying
+Maschiff,Shadow Beast,Dark
+Mabosstiff,Dark Boss,Dark
+Shroodle,Toxic Shroom,Poison,Normal
+Grafaiai,Graffiti Poison,Poison,Normal
+Bramblin,Vine Ghost,Grass,Ghost
+Brambleghast,Thorny Ghost,Grass,Ghost
+Toedscool,Stomp Toad,Ground,Grass
+Toedscruel,Twisted Toad,Ground,Grass
+Klawf,Rock Claw,Rock
+Capsakid,Berry Cap,Grass
+Scovillain,Flame Villain,Grass,Fire
+Rellor,Bug Relic,Bug
+Rabsca,Psionic Bug,Bug,Psychic
+Flittle,Psychic Flicker,Psychic
+Espathra,Spectral Blade,Psychic
+Tinkatink,Fairy Tinker,Fairy,Steel
+Tinkatuff,Tough Tinker,Fairy,Steel
+Tinkaton,Metallic Tinker,Fairy,Steel
+Wiglett,Spray Pup,Water
+Wugtrio,Wave Trio,Water
+Bombirdier,Explosive Avian,Flying,Dark
+Finizen,Wave Beast,Water
+Palafin (Zero Form),Wave Sprite,Water
+Palafin (Hero Form),Wave Hero,Water
+Varoom,Metal Toxin,Steel,Poison
+Revavroom,Revolving Poison,Steel,Poison
+Cyclizar,Dragon Cycle,Dragon,Normal
+Orthworm,Iron Worm,Steel
+Glimmet,Glimmer Toxin,Rock,Poison
+Glimmora,Glimmer Venom,Rock,Poison
+Greavard,Specter Guard,Ghost
+Houndstone,Ghost Hound,Ghost
+Flamigo,Flaming Flapper,Flying,Fighting
+Cetoddle,Ice Tadpole,Ice
+Cetitan,Ice Titan,Ice
+Veluza,Aqua Mystic,Water,Psychic
+Dondozo,Wave Tower,Water
+Tatsugiri (Curly Form),Curly Dragon,Dragon,Water
+Tatsugiri (Droopy Form),Droopy Dragon,Dragon,Water
+Tatsugiri (Stretchy Form),Stretchy Dragon,Dragon,Water
+Annihilape,Shadow Buster,Fighting,Ghost
+Clodsire,Sludge Land,Poison,Ground
+Farigiraf,Mystical Psychic,Normal,Psychic
+Dudunsparce (Two-Segment Form),Segmented Dudun,Normal
+Dudunsparce (Three-Segment Form),Segmented Dudun,Normal
+Kingambit,Chess King,Dark,Steel
+Great Tusk,Mighty Mammoth,Ground,Fighting
+Scream Tail,Howling Fairy,Fairy,Psychic
+Brute Bonnet,Dark Plant,Grass,Dark
+Flutter Mane,Spectral Fairy,Ghost,Fairy
+Slither Wing,Serpent Fighter,Bug,Fighting

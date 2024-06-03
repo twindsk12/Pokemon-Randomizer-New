@@ -1,0 +1,99 @@
+Chikorita,no one cares about it,Grass,
+Bayleef,no one cares about it,Grass,
+Meganium,no one cares about it,Grass,
+Cyndaquil,gen 6 sprite sucks,Fire,
+Quilava,gen 6 sprite sucks,Fire,
+Typhlosion,gen 6 sprite sucks,Fire,
+Totodile,Florida puppy,Water,
+Croconaw,Florida puppy,Water,
+Feraligatr,Florida puppy,Water,
+Sentret,TM Slave,Normal,
+Furret,TM Slave,Normal,
+Hoothoot,Tootsie Roll,Normal,Flying
+Noctowl,Tootsie Roll,Normal,Flying
+Ledyba,That one superhero show about ladybugs,Bug,Flying
+Ledian,That one superhero show about ladybugs,Bug,Flying
+Spinarak,Spiderman?,Bug,Poison
+Ariados,Spiderman?,Bug,Poison
+Crobat,Crobatman,Poison,Flying
+Chinchou,friendly anglerfish,Water,Electric
+Lanturn,friendly anglerfish,Water,Electric
+Pichu,why was it made?,Electric,
+Cleffa,why was it made?,Fairy,
+Igglybuff,why was it made?,Normal,Fairy
+Togepi,metronome,Fairy,
+Togetic,metronome,Fairy,Flying
+Natu,natu more like napu(pls laugh),Psychic,Flying
+Xatu,something,Psychic,Flying
+Mareep,1 sheep,Electric,
+Flaaffy,2 sheep,Electric,
+Ampharos,3 sheep zzzz,Electric,
+Bellossom,dancer,Grass,
+Marill,rabbit?,Water,Fairy
+Azumarill,rabbit?,Water,Fairy
+Sudowoodo,somehow a rock,Rock,
+Politoed,frog,Water,
+Hoppip,BABU,Grass,Flying
+Skiploom,BABU,Grass,Flying
+Jumpluff,BABU,Grass,Flying
+Aipom,monkey with hands,Normal,
+Sunkern,sunflower seed,Grass,
+Sunflora,2,Grass,
+Yanma,sunflower,Bug,Flying
+Wooper,WHOPPER,Water,Ground
+Quagsire,its eyes say everything,Water,Ground
+Espeon,day,Psychic,
+Umbreon,night,Dark,
+Murkrow,crow,Dark,Flying
+Slowking,king of being slow,Water,Psychic
+Misdreavus,dream ,Ghost,
+Unown,alphabet ,Psychic,
+Wobbuffet,counter ,Psychic,
+Girafarig,interesting tail,Normal,Psychic
+Pineco,pinecone,Bug,
+Forretress,metal pinecone,Bug,Steel
+Dunsparce,dumb,Normal,
+Gligar,glider,Ground,Flying
+Steelix,Steel Snake,Steel,Ground
+Snubbull,Dog,Fairy,
+Granbull,Dog,Fairy,
+Qwilfish,Want to eat,Water,Poison
+Scizor,Iron Man,Bug,Steel
+Shuckle,Shell,Bug,Rock
+Heracross,Beetle,Bug,Fighting
+Sneasel,uhhhhh,Dark,Ice
+Teddiursa,har har har har,Normal,
+Ursaring,FNAF,Normal,
+Slugma,still not a funny joke,Fire,
+Magcargo,set a snail on fire,Fire,Rock
+Swinub,nub,Ice,Ground
+Piloswine,swine,Ice,Ground
+Corsola,Great Barrier Reef,Water,Rock
+Remoraid, remoras are cool animals,Water
+Octillery, Octodad,Water
+Delibird, Satan and Santa,Ice,Flying
+Mantine,stingray,Water,Flying
+Houndour,heck dog,Dark,Fire
+Houndoom,HECKER dog,Dark,Fire
+Kingdra,SEAhorse,Dragon,Water
+Phanpy,Elephant,Ground,
+Donphan,Bigger Phant,Ground,
+Porygon2,Digimon,Normal,
+Stantler,Reindeer,Normal,
+Smeargle,Artist,Normal,
+Tyrogue,Martial Artist,Fighting, 
+Hitmontop,Beyblade,Fighting, 
+Smoochum,Doll?,Ice,Psychic
+Elekid,Plug,Electric,
+Magby,Heater,Fire,
+Miltank,Cow,Normal,
+Blissey,Wall,Normal,
+Raikou,Thunder,Electric,
+Entei,Volcano,Fire,
+Suicune,Rain,Water,
+Larvitar,Godzilla,Rock,Ground
+Pupitar,Godzilla,Rock,Ground
+Tyranitar,Godzilla,Rock,Dark
+Lugia,Silver,Psychic,Flying
+Ho-oh,Gold,Fire,Flying
+Celebi,Time,Psychic,Grass

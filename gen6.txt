@@ -1,0 +1,73 @@
+Chespin,spiky furry,Grass
+Quilladin,spiky furry,Grass
+Chesnaught,spiky furry,Grass,Fighting
+Fennekin,fluffy furry,Fire
+Braixen,fluffy furry,Fire
+Delphox,fluffy furry,Fire,Psychic
+Froakie,edgy furry,Water
+Frogadier,edgy furry,Water
+Greninja,edgy furry,Water,Dark
+Bunnelby,Wabbit,Normal
+Diggersby,Wabbit,Normal,Ground
+Fletchling,KFC,Normal,Flying
+Fletchinder,KFC,Fire,Flying
+Talonflame,KFC,Fire,Flying
+Scatterbug,Coacroach jumping into a deppfryer,Bug
+Spewpa,spewing ,Bug
+Vivillon,buttefree part 2,Bug,Flying
+Litleo,set simba on fire,Fire,Normal
+Pyroar,set simba on fire,Fire,Normal
+Flabébé,flower power,Fairy
+Floette,flower power,Fairy
+Florges,flower power,Fairy
+Skiddo,skibbidty(I'm sorry :( ),Grass
+Gogoat,Lebron,Grass
+Pancham,Po,Fighting
+Pangoro,Po,Fighting,Dark
+Furfrou,Furfrown,Normal
+Espurr,Es,Psychic
+Meowstic, Psy Kitty, Psychic
+Honedge, Sword Swipe, Steel, Ghost
+Doublade, Double Edge, Steel, Ghost
+Aegislash, Royal Shield, Steel, Ghost
+Spritzee, Sweet Scent, Fairy
+Aromatisse, Perfume Puff, Fairy
+Swirlix, Cotton Candy, Fairy
+Slurpuff, Sugar Rush, Fairy
+Inkay, Flip Flop, Dark, Psychic
+Malamar, Hypnotic Squid, Dark, Psychic
+Binacle, Handy Rock, Rock, Water
+Barbaracle, Rock Fists, Rock, Water
+Skrelp, Seaweed Snoop, Poison, Water
+Dragalge, Toxic Dragon, Poison, Dragon
+Clauncher, Claw Boom, Water
+Clawitzer, Cannon Claw, Water
+Helioptile, Sunny Smile, Electric, Normal
+Heliolisk, Sun Power, Electric, Normal
+Tyrunt, Tiny T-Rex, Rock, Dragon
+Tyrantrum, King Rex, Rock, Dragon
+Amaura, Aurora Baby, Rock, Ice
+Aurorus, Aurora Dino, Rock, Ice
+Sylveon, Fairy Friend, Fairy
+Hawlucha, Flying Fighter, Fighting, Flying
+Dedenne, Pika Pal, Electric, Fairy
+Carbink, Jewel Gem, Rock, Fairy
+Goomy, Gooey Goo, Dragon
+Sliggoo, Slimy Slug, Dragon
+Goodra, Gooey Dragon, Dragon
+Klefki, Key Keeper, Steel, Fairy
+Phantump, Spooky Stump, Ghost, Grass
+Trevenant, Haunted Tree, Ghost, Grass
+Pumpkaboo, Pumpkin Pal, Ghost, Grass
+Gourgeist, Ghoulish Gourd, Ghost, Grass
+Bergmite, Ice Cube, Ice
+Avalugg, Glacier Plate, Ice
+Noibat, Sound Bat, Flying, Dragon
+Noivern, Echo Wing, Flying, Dragon
+Xerneas, Life Giver, Fairy
+Yveltal, Destruction Wing, Dark, Flying
+Zygarde, Order Keeper, Dragon, Ground
+Diancie, Gemstone Fairy, Rock, Fairy
+Hoopa, Mischief Maker, Psychic, Ghost
+Volcanion, Steam Power, Fire, Water
+

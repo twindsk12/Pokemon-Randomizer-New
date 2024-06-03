@@ -1,0 +1,107 @@
+Turtwig,I like tutels,Grass,
+Grotle,I like tutels,Grass,
+Torterra,I like tutels,Grass,Ground
+Chimchar,Goku,Fire,
+Monferno,Goku,Fire,Fighting
+Infernape,Goku,Fire,Fighting
+Piplup,Noot Noot,Water,
+Prinplup,Noot Noot,Water,
+Empoleon,Noot Noot,Water,Steel
+Starly,The ideal bird,Normal,Flying
+Staravia,The ideal bird,Normal,Flying
+Staraptor,The ideal bird,Normal,Flying
+Bidoof,HM SLAVE,Normal,
+Bibarel,HM SLAVE,Normal,Water
+Kricketot,bug,Bug,
+Kricketune,bug,Bug,
+Shinx,Simba,Electric,
+Luxio,Simba,Electric,
+Luxray,Simba,Electric,
+Budew,buddy,Grass,Poison
+Roserade,rade,Grass,Poison
+Cranidos,unstoppable force,Rock,
+Rampardos,unstoppable forec,Rock,
+Shieldon,immovable object,Rock,Steel
+Bastiodon,immovable object,Rock,Steel
+Burmy,bug,Bug,
+Wormadam,bug,Bug,Grass
+Mothim,bug,Bug,Flying
+Combee,bug,Bug,Flying
+Vespiquen,bug,Bug,Flying
+Pachirisu,THE 2014 CHAMPION RESPECT HIM,Electric,
+Buizel,water dog,Water,
+Floatzel,water dog,Water,
+Cherubi,cherry bug,Grass,
+Cherrim,cherry bug,Grass,
+Shellos,slugterra,Water,
+Gastrodon,slugterra,Water,Ground
+Ambipom,bigger hand,Normal,
+Drifloon,literally a baloon,Ghost,Flying
+Drifblim,literally a baloon,Ghost,Flying
+Buneary,Bugs Bunny,Normal,
+Lopunny,Bugs Bunny,Normal,
+Mismagius,Dream,Ghost,
+Honchkrow,Thief,Dark,Flying
+Glameow,Glameour,Normal,
+Purugly,Ugly,Normal,
+Chingling,Ching,Psychic,
+Stunky,4,Poison,Dark
+Skuntank,uh oh stinky,Poison,Dark
+Bronzor,Coin,Steel,Psychic
+Bronzong,Philadelphia Bell,Steel,Psychic
+Bonsly,baby rock,Rock,
+Mime Jr.,Baby Wizard,Psychic,Fairy
+Happiny,Egg,Normal,
+Chatot,Banned because DS could record any sound,Normal,Flying
+Spiritomb,Casper,Ghost,Dark
+Gible,piano trauma,Dragon,Ground
+Gabite,piano trauma,Dragon,Ground
+Garchomp,piano trauma,Dragon,Ground
+Munchlax,eating,Normal,
+Riolu,4,Fighting,
+Lucario,4,Fighting,Steel
+Hippopotas,watermelon crusher,Ground,
+Hippowdon,big watermelon crusher,Ground,
+Skorupi,Coyote Peterson,Poison,Bug
+Drapion,Coyote Peterson,Poison,Dark
+Croagunk,Kungfu Toad,Poison,Fighting
+Toxicroak,Kungfu Toad,Poison,Fighting
+Carnivine,Venus Flytrap,Grass,
+Finneon,Forgetable,Water,
+Lumineon,Forgetable,Water,
+Mantyke,Forgetable,Water,Flying
+Snover,Snow Rover,Grass,Ice
+Abomasnow,Obamasnow,Grass,Ice
+Weavile,Weavin,Dark,Ice
+Magnezone,Magnetic Zone,Electric,Steel
+Lickilicky,Lickin,Normal,
+Rhyperior,Evolution of a bad joke,Ground,Rock
+Tangrowth,Tangled Growth,Grass,
+Electivire,Plug,Electric,
+Magmortar,Lava Lamp,Fire,
+Togekiss,Flinch Angel,Fairy,Flying
+Yanmega,Amazon Bug,Bug,Flying
+Leafeon,Moss fox,Grass,
+Glaceon,Frozen fox,Ice,
+Gliscor,bat?,Ground,Flying
+Mamoswine,Manny from Ice Age,Ice,Ground
+Porygon-Z,Digimon,Normal,
+Gallade,Saber,Psychic,Fighting
+Probopass,Mario,Rock,Steel
+Dusknoir,Mystery Dungeon,Ghost,
+Froslass,Ghost Ice,Ice,Ghost
+Rotom,Appliance,Electric,Ghost
+Uxie,Sugar,Psychic,
+Mesprit,Spice,Psychic,
+Azelf,and Everthing Nice,Psychic,
+Dialga,Solid,Steel,Dragon
+Palkia,Liquid,Water,Dragon
+Heatran,Smelting,Fire,Steel
+Regigigas,Mover,Normal,
+Giratina,Gas,Ghost,Dragon
+Cresselia,Dreams,Psychic,
+Phione,Blob,Water,
+Manaphy,Blob,Water,
+Darkrai,Nightmares,Dark,
+Shaymin,Grass Thing,Grass,
+Arceus,Literal God,Normal,

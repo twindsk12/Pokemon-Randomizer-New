@@ -1,0 +1,135 @@
+Treecko,Gecko Dizzy,Grass,
+Grovyle,Gecko Molly,Grass,
+Sceptile,Gecko Thrash,Grass,
+Torchic,KFC,Fire,
+Combusken,KFC,Fire,Fighting
+Blaziken,KFC,Fire,Fighting
+Mudkip,AXOYTL,Water,
+Marshtomp,AXOYTL,Water,Ground
+Swampert,AXOYTL,Water,Ground
+Poochyena,dark dog,Dark,
+Mightyena,dark dog,Dark,
+Zigzagoon,HM SLAVE,Normal
+Linoone,HM SLAVE,Normal
+Wurmple,bug,Bug,
+Silcoon,bug,Bug,
+Beautifly,bug,Bug,Flying
+Cascoon,bug,Bug,
+Dustox,bug,Bug,Poison
+Lotad,Kappa,Water,Grass
+Lombre,kappa,Water,Grass
+Ludicolo,kappa,Water,Grass
+Seedot,seed,Grass,
+Nuzleaf,nuzlocke,Grass,Dark
+Shiftry,shifty,Grass,Dark
+Taillow,ari,Normal,Flying
+Swellow,ari,Normal,Flying
+Wingull,wing,Water,Flying
+Pelipper,wing,Water,Flying
+Ralts,black hole,Psychic,Fairy
+Kirlia,black hole,Psychic,Fairy
+Gardevoir,black hole,Psychic,Fairy
+Surskit,skidding bug,Bug,Water
+Masquerain,skidding bug,Bug,Flying
+Shroomish,shroom,Grass,
+Breloom,shroom,Grass,Fighting
+Slakoth,slaker - Mr. Levering,Normal,
+Vigoroth,slaker - Mr. Levering,Normal,
+Slaking,slaker - Mr. Levering,Normal,
+Nincada,Ninja,Bug,Ground
+Ninjask,Ninja,Bug,Flying
+Shedinja,Ninja,Bug,Ghost
+Whismur,whimpher,Normal,
+Loudred,loud,Normal,
+Exploud,concert,Normal,
+Makuhita,Drum,Fighting,
+Hariyama,Drum,Fighting,
+Azurill,baby wabbit,Normal,Fairy
+Nosepass,Huge nose,Rock,
+Skitty,kat,Normal,
+Delcatty,kat,Normal,
+Sableye,eye,Dark,Ghost
+Mawile,dang those teeth,Steel,Fairy
+Aron,carbon,Steel,Rock
+Lairon,carbon,Steel,Rock
+Aggron,carbon,Steel,Rock
+Meditite,discipline,Fighting,Psychic
+Medicham,discipline,Fighting,Psychic
+Electrike,current,Electric,
+Manectric,current,Electric,
+Plusle,plus,Electric,
+Minun,minus,Electric,
+Volbeat,firefly,Bug,
+Illumise,firefly,Bug,
+Roselia,rose,Grass,Poison
+Gulpin,not funny joke,Poison,
+Swalot,not funny joke,Poison,
+Carvanha,shark,Water,Dark
+Sharpedo,shark,Water,Dark
+Wailmer,whale,Water,
+Wailord,whale,Water,
+Numel,volcano,Fire,Ground
+Camerupt,volcano,Fire,Ground
+Torkoal,tutel,Fire,
+Spoink,spring,Psychic,
+Grumpig,grumpy,Psychic,
+Spinda,spinnn,Normal,
+Trapinch,its a trap,Ground,
+Vibrava,vibrate,Ground,Dragon
+Flygon,bug eyes,Ground,Dragon
+Cacnea,cactus,Grass,
+Cacturne,cactus,Grass,Dark
+Swablu,cloud,Normal,Flying
+Altaria,cloud,Dragon,Flying
+Zangoose,mongoose,Normal,
+Seviper,snake,Poison,
+Lunatone,Armstrong,Rock,Psychic
+Solrock,The power of the sun,Rock,Psychic
+Barboach,catfish,Water,Ground
+Whiscash,catfish,Water,Ground
+Corphish,larry the lobster,Water,
+Crawdaunt,larry the lobster,Water,Dark
+Baltoy,ancient,Ground,Psychic
+Claydol,ancient,Ground,Psychic
+Lileep,ancient,Rock,Grass
+Cradily,ancient,Rock,Grass
+Anorith,ancient,Rock,Bug
+Armaldo,ancient,Rock,Bug
+Feebas,beastily beauty,Water,
+Milotic,beautiful beast,Water,
+Castform,weather,Normal,
+Kecleon,chamleon,Normal,
+Shuppet,muppet,Ghost,
+Banette,muppet,Ghost,
+Duskull,skull,Ghost,
+Dusclops,skull,Ghost,
+Tropius,banana,Grass,Flying
+Chimecho,chime,Psychic,
+Absol,calamity,Dark,
+Wynaut,why not,Psychic,
+Snorunt,runt,Ice,
+Glalie,lie,Ice,
+Spheal,seal,Ice,Water
+Sealeo,sealion,Ice,Water
+Walrein,walrus,Ice,Water
+Clamperl,clam,Water,
+Huntail,hunt,Water,
+Gorebyss,abyss,Water,
+Relicanth,feesh,Water,Rock
+Luvdisc,heart fish,Water,
+Bagon,PSEUDO,Dragon,
+Shelgon,PSEUDO,Dragon,
+Salamence,PSEUDO,Dragon,Flying
+Beldum,PSEUDO,Steel,Psychic
+Metang,PSEUDO,Steel,Psychic
+Metagross,PSEUDO,Steel,Psychic
+Regirock,rock,Rock,
+Regice,ice,Ice,
+Registeel,steel,Steel,
+Latias,lateias,Dragon,Psychic
+Latios,lateios,Dragon,Psychic
+Kyogre,majority of the Earth,Water,
+Groudon,the earth,Ground,
+Rayquaza,Weather God,Dragon,Flying
+Jirachi,Aladdin,Steel,Psychic
+Deoxys,Area 51,Psychic,

@@ -1,0 +1,156 @@
+Victini,Victory,Psychic,Fire
+Snivy,Granke,Grass,
+Servine,Granke,Grass,
+Serperior,Granke,Grass
+Tepig,Pig,Fire,
+Pignite,Pig,Fire,Fighting
+Emboar,Pig,Fire,Fighting
+Oshawott,Scallop,Water,
+Dewott,Scallop,Water,
+Samurott,Scallop,Water
+Patrat,Meerkat,Normal,
+Watchog,Meerkat,Normal
+Lillipup,Doge,Normal
+Herdier,Doge,Normal
+Stoutland,Doge,Normal
+Purrloin,Cet,Dark
+Liepard,Cet,Dark
+Pansage,Grass Monke,Grass
+Simisage,Grass Monke,Grass
+Pansear,fire Monke,Fire
+Simisear,fire Monke,Fire
+Panpour,water Monke,Water
+Simipour,water Monke,Water
+Munna,dreamer,Psychic
+Musharna,dreamer,Psychic
+Pidove,pigeon,Normal,Flying
+Tranquill,pigeon,Normal,Flying
+Unfezant,pigeon,Normal,Flying
+Blitzle,zebra,Electric
+Zebstrika,zebra,Electric
+Roggenrola,rock,Rock
+Boldore,rock,Rock
+Gigalith,rock,Rock
+Woobat,woobatman,Psychic,Flying
+Swoobat,swoobatman,Psychic,Flying
+Drilbur,digger,Ground
+Excadrill,digger,Ground,Steel
+Audino,medic,Normal
+Timburr,construction,Fighting
+Gurdurr,construction,Fighting
+Conkeldurr,construction,Fighting
+Tympole,frog,Water
+Palpitoad,frog,Water,Ground
+Seismitoad,frog,Water,Ground
+Throh,throw,Fighting
+Sawk,sock,Fighting
+Sewaddle,sewing,Bug,Grass
+Swadloon,sewing,Bug,Grass
+Leavanny,sewing,Bug,Grass
+Venipede,millipede,Bug,Poison
+Whirlipede,millipede,Bug,Poison
+Scolipede,millipede,Bug,Poison
+Cottonee,cotton,Grass,Fairy
+Whimsicott,cotton,Grass,Fairy
+Petilil,petal,Grass
+Lilligant,petal,Grass
+Basculin,fish,Water
+Sandile,croc,Ground,Dark
+Krokorok,croc,Ground,Dark
+Krookodile,croc,Ground,Dark
+Darumaka,hot rock,Fire
+Darmanitan,hot rock,Fire
+Maractus,cactus,Grass
+Dwebble,hermit,Bug,Rock
+Crustle,hermit,Bug,Rock
+Scraggy,thug,Dark,Fighting
+Scrafty,thug,Dark,Fighting
+Sigilyph,sigil,Psychic,Flying
+Yamask,mummy,Ghost
+Cofagrigus,mummy,Ghost
+Tirtouga,turtle,Water,Rock
+Carracosta,turtle,Water,Rock
+Archen,dino,Rock,Flying
+Archeops,dino,Rock,Flying
+Trubbish,trash literally,Poison
+Garbodor,trash literally,Poison
+Zorua,dark fox,Dark
+Zoroark,dark fox,Dark
+Minccino,squirrel,Normal
+Cinccino,squirrel,Normal
+Gothita,braining,Psychic
+Gothorita,braining,Psychic
+Gothitelle,braining,Psychic
+Solosis,Solo,Psychic
+Duosion,Duo,Psychic
+Reuniclus,Trio,Psychic
+Ducklett,Duck,Water,Flying
+Swanna,Swan,Water,Flying
+Vanillite,Ice Cream,Ice
+Vanillish,Ice Cream,Ice
+Vanilluxe,Ice Cream,Ice
+Deerling,Deer,Normal,Grass
+Sawsbuck,Deer,Normal,Grass
+Emolga,Flying Squrrel,Electric,Flying
+Karrablast,Bug,Bug
+Escavalier,Bug,Bug,Steel
+Foongus,Sus,Grass,Poison
+Amoonguss,Sus,Grass,Poison
+Frillish,Jello,Water,Ghost
+Jellicent,Jello,Water,Ghost
+Alomomola,Aloha,Water
+Joltik,Spider,Bug,Electric
+Galvantula,Spider,Bug,Electric
+Ferroseed,Spiky Seed,Grass,Steel
+Ferrothorn,Spiky Ball,Grass,Steel
+Klink,Gear,Steel
+Klang,Gear,Steel
+Klinklang,Gear,Steel
+Tynamo,Eel,Electric
+Eelektrik,Eel,Electric
+Eelektross,Eel,Electric
+Elgyem,UFO,Psychic
+Beheeyem,UFO,Psychic
+Litwick,Candle,Ghost,Fire
+Lampent,lamp,Ghost,Fire
+Chandelure,chandelier,Ghost,Fire
+Axew,axe,Dragon
+Fraxure,fraxe,Dragon
+Haxorus,haxe,Dragon
+Cubchoo,cub,Ice
+Beartic,bear,Ice
+Cryogonal,snowflake,Ice
+Shelmet,shell,Bug
+Accelgor,accel,Bug
+Stunfisk,mudfish,Ground,Electric
+Mienfoo,kungfu,Fighting
+Mienshao,kungfu fighting,Fighting
+Druddigon,dragon deez... fighting,Dragon
+Golett,Ruened. you mean ruined?,Ground,Ghost
+Golurk,Reynas lurking,Ground,Ghost
+Pawniard,Pawn,Dark,Steel
+Bisharp,Bishop,Dark,Steel
+Bouffalant,Prarie,Normal
+Rufflet,Ruffles,Normal,Flying
+Braviary,Captain America,Normal,Flying
+Vullaby,Ugly,Dark,Flying
+Mandibuzz,Michael Keaton,Dark,Flying
+Heatmor,More,Fire
+Durant,Antman,Bug,Steel
+Deino,Den-O,Dark,Dragon
+Zweilous,Wzei,Dark,Dragon
+Hydreigon,Hydragon deez...,Dark,Dragon
+Larvesta,You are my sunshine,Bug,Fire
+Volcarona,my only sunshine,Bug,Fire
+Cobalion,cobalt,Steel,Fighting
+Terrakion,Ter Rock,Rock,Fighting
+Virizion,5,Sharp Grass,Fighting
+Tornadus,tornado,Flying
+Thundurus,thunder,Electric,Flying
+Reshiram,yin,Dragon,Fire
+Zekrom,yang,Dragon,Electric
+Landorus,land,Ground,Flying
+Kyurem,balance,Dragon,Ice
+Keldeo,Water Horse,Water,Fighting
+Meloetta,Elvis,Normal,Psychic
+Genesect,Gene Insect,Bug,Steel
